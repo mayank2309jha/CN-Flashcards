@@ -4,7 +4,7 @@
 const CN_QNA = [
   {
     id: 1,
-    question: "What is the sex?",
+    question: "What is the OSI model?",
     answer:
       "A 7-layer conceptual model for network communication: Physical, Data Link, Network, Transport, Session, Presentation, Application.",
   },
